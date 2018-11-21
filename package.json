@@ -9,7 +9,8 @@
     "compile": "./compile.sh",
     "deploy": "node deploy.js",
     "test": "mocha",
-    "truebit": "node ./cli/index.js"
+    "truebit": "node ./cli/index.js",
+    "debug": "node --nolazy --inspect-brk=9229 ./cli/index.js"
   },
   "keywords": [
     "to",

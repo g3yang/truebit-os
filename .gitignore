@@ -3,7 +3,6 @@ solutions/*.json
 
 combined.log.json
 
-.vscode
 tmp.*
 build
 wasm-client/contracts.json
